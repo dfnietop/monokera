@@ -1,0 +1,2 @@
+class MonokeraReport:
+    pass

@@ -1,0 +1,14 @@
+[2024-12-16T15:12:21.081+0000] {processor.py:186} INFO - Started process (PID=1536) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:12:21.082+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:12:21.083+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:21.082+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:12:21.317+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:12:21.337+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:21.337+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:12:21.345+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:21.345+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:12:21.354+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.285 seconds
+[2024-12-16T15:12:51.979+0000] {processor.py:186} INFO - Started process (PID=1543) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:12:51.988+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:12:51.992+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:51.990+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:12:52.365+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:12:52.389+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:52.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:12:52.399+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:52.399+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:12:52.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.447 seconds
