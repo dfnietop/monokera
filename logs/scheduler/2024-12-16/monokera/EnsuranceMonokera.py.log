@@ -12,3 +12,192 @@
 [2024-12-16T15:12:52.389+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:52.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-12-16T15:12:52.399+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:12:52.399+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
 [2024-12-16T15:12:52.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.447 seconds
+[2024-12-16T15:13:22.784+0000] {processor.py:186} INFO - Started process (PID=1550) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:13:22.785+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:13:22.786+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:13:22.786+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:13:23.055+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:13:23.097+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:13:23.096+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:13:23.114+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:13:23.114+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:13:23.125+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.356 seconds
+[2024-12-16T15:13:53.526+0000] {processor.py:186} INFO - Started process (PID=1557) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:13:53.529+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:13:53.531+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:13:53.531+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:13:53.819+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:13:53.836+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:13:53.835+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:13:53.847+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:13:53.846+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:13:53.855+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.349 seconds
+[2024-12-16T15:14:24.165+0000] {processor.py:186} INFO - Started process (PID=1564) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:14:24.166+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:14:24.170+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:14:24.168+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:14:24.386+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:14:24.405+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:14:24.405+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:14:24.416+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:14:24.416+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:14:24.426+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.278 seconds
+[2024-12-16T15:14:54.496+0000] {processor.py:186} INFO - Started process (PID=1571) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:14:54.497+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:14:54.498+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:14:54.498+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:14:54.744+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:14:54.758+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:14:54.758+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:14:54.766+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:14:54.766+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:14:54.772+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.294 seconds
+[2024-12-16T15:15:25.081+0000] {processor.py:186} INFO - Started process (PID=1578) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:15:25.082+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:15:25.084+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:15:25.083+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:15:25.291+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:15:25.315+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:15:25.315+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:15:25.325+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:15:25.325+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:15:25.335+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.267 seconds
+[2024-12-16T15:15:55.534+0000] {processor.py:186} INFO - Started process (PID=1585) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:15:55.544+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:15:55.545+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:15:55.545+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:15:55.797+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:15:55.819+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:15:55.818+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:15:55.831+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:15:55.830+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:15:55.849+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.327 seconds
+[2024-12-16T15:16:25.932+0000] {processor.py:186} INFO - Started process (PID=1592) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:16:25.936+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:16:25.940+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:16:25.938+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:16:26.265+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:16:26.346+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:16:26.345+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:16:26.361+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:16:26.361+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:16:26.371+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.482 seconds
+[2024-12-16T15:16:56.601+0000] {processor.py:186} INFO - Started process (PID=1599) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:16:56.602+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:16:56.603+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:16:56.603+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:16:56.808+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:16:56.828+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:16:56.828+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:16:56.838+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:16:56.838+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:16:56.847+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.264 seconds
+[2024-12-16T15:17:27.251+0000] {processor.py:186} INFO - Started process (PID=1606) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:17:27.253+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:17:27.254+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:17:27.253+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:17:27.511+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:17:27.535+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:17:27.534+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:17:27.550+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:17:27.550+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:17:27.559+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.368 seconds
+[2024-12-16T15:17:57.873+0000] {processor.py:186} INFO - Started process (PID=1613) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:17:57.874+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:17:57.875+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:17:57.875+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:17:58.051+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:17:58.064+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:17:58.064+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:17:58.072+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:17:58.072+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:17:58.080+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.236 seconds
+[2024-12-16T15:18:28.266+0000] {processor.py:186} INFO - Started process (PID=1621) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:18:28.267+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:18:28.267+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:18:28.267+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:18:28.485+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:18:28.505+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:18:28.505+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:18:28.515+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:18:28.515+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:18:28.523+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.268 seconds
+[2024-12-16T15:18:58.791+0000] {processor.py:186} INFO - Started process (PID=1628) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:18:58.794+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:18:58.795+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:18:58.795+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:18:59.002+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:18:59.025+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:18:59.025+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:18:59.034+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:18:59.034+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:18:59.042+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.260 seconds
+[2024-12-16T15:19:29.119+0000] {processor.py:186} INFO - Started process (PID=1635) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:19:29.121+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:19:29.122+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:19:29.122+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:19:29.528+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:19:29.559+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:19:29.558+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:19:29.572+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:19:29.572+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:19:29.588+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.486 seconds
+[2024-12-16T15:19:59.727+0000] {processor.py:186} INFO - Started process (PID=1642) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:19:59.729+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:19:59.732+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:19:59.731+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:20:00.028+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:20:00.049+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:20:00.048+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:20:00.060+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:20:00.060+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:20:00.070+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.363 seconds
+[2024-12-16T15:20:30.289+0000] {processor.py:186} INFO - Started process (PID=1649) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:20:30.291+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:20:30.292+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:20:30.292+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:20:30.529+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:20:30.547+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:20:30.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:20:30.557+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:20:30.557+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:20:30.566+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.319 seconds
+[2024-12-16T15:21:00.919+0000] {processor.py:186} INFO - Started process (PID=1656) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:21:00.924+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:21:00.932+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:21:00.929+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:21:01.311+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:21:01.344+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:21:01.344+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:21:01.365+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:21:01.365+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:21:01.377+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.475 seconds
+[2024-12-16T15:21:31.824+0000] {processor.py:186} INFO - Started process (PID=1663) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:21:31.826+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:21:31.829+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:21:31.828+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:21:32.127+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:21:32.179+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:21:32.178+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:21:32.203+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:21:32.203+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:21:32.217+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.419 seconds
+[2024-12-16T15:22:02.657+0000] {processor.py:186} INFO - Started process (PID=1670) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:22:02.659+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:22:02.661+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:22:02.660+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:22:02.912+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:22:02.942+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:22:02.942+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:22:02.955+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:22:02.955+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:22:02.965+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.327 seconds
+[2024-12-16T15:22:33.037+0000] {processor.py:186} INFO - Started process (PID=1677) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:22:33.038+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:22:33.040+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:22:33.039+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:22:33.311+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:22:33.331+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:22:33.331+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:22:33.343+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:22:33.343+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:22:33.354+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.330 seconds
+[2024-12-16T15:23:03.756+0000] {processor.py:186} INFO - Started process (PID=1684) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:23:03.761+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:23:03.772+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:23:03.767+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:23:04.067+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:23:04.094+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:23:04.093+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:23:04.104+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:23:04.104+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:23:04.115+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.384 seconds
+[2024-12-16T15:23:34.457+0000] {processor.py:186} INFO - Started process (PID=1691) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:23:34.459+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:23:34.461+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:23:34.460+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:23:34.661+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:23:34.674+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:23:34.674+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:23:34.681+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:23:34.681+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:23:34.688+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.242 seconds
+[2024-12-16T15:24:05.234+0000] {processor.py:186} INFO - Started process (PID=1698) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:24:05.235+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:24:05.238+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:24:05.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:24:05.463+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:24:05.485+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:24:05.485+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:24:05.494+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:24:05.493+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:24:05.502+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.280 seconds
+[2024-12-16T15:24:35.606+0000] {processor.py:186} INFO - Started process (PID=1705) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:24:35.607+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:24:35.609+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:24:35.608+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:24:35.906+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:24:35.937+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:24:35.937+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:24:35.957+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:24:35.957+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:24:35.990+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.394 seconds
+[2024-12-16T15:25:06.131+0000] {processor.py:186} INFO - Started process (PID=1712) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:25:06.132+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:25:06.133+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:25:06.133+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:25:06.345+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:25:06.360+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:25:06.360+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:25:06.380+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:25:06.380+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:25:06.388+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.272 seconds
+[2024-12-16T15:25:36.701+0000] {processor.py:186} INFO - Started process (PID=1719) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:25:36.703+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:25:36.705+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:25:36.704+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:25:36.966+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:25:36.982+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:25:36.982+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:25:36.989+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:25:36.989+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:25:36.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.310 seconds
+[2024-12-16T15:26:07.309+0000] {processor.py:186} INFO - Started process (PID=1726) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:26:07.311+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:26:07.312+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:26:07.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:26:07.612+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:26:07.633+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:26:07.633+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:26:07.641+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:26:07.641+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:26:07.649+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.355 seconds
+[2024-12-16T15:26:37.820+0000] {processor.py:186} INFO - Started process (PID=1733) to work on /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:26:37.825+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/monokera/EnsuranceMonokera.py for tasks to queue
+[2024-12-16T15:26:37.828+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:26:37.827+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:26:38.225+0000] {processor.py:925} INFO - DAG(s) 'Ensurance_Monokera' retrieved from /opt/airflow/dags/monokera/EnsuranceMonokera.py
+[2024-12-16T15:26:38.258+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:26:38.258+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T15:26:38.278+0000] {logging_mixin.py:190} INFO - [2024-12-16T15:26:38.278+0000] {dag.py:4180} INFO - Setting next_dagrun for Ensurance_Monokera to None, run_after=None
+[2024-12-16T15:26:38.290+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/monokera/EnsuranceMonokera.py took 0.490 seconds
